@@ -19,7 +19,7 @@ Step 2:
 
 ## Prerequisite
 - Terraform [installed](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)  
-- Access to AWS [account](https://aws.amazon.com/resources/create-account/) and [configured](https://support.hashicorp.com/hc/en-us/articles/360041289933-Using-AWS-AssumeRole-with-the-AWS-Terraform-Provider) for terraform to connect to the AWS
+- Access to AWS [account](https://aws.amazon.com/resources/create-account/) and [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) for terraform to connect to the AWS
 
 ## Run Locally
 
