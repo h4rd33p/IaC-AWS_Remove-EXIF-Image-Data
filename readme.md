@@ -31,7 +31,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd DevOps-AWS_Remove-EXIF-Image-Data
 ```
 Run terraform to deploy resources in the AWS
 
