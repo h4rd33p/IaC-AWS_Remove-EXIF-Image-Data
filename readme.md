@@ -1,4 +1,4 @@
-# DevOps-AWS_Remove-EXIF-Image-Data
+# IaC-AWS_Remove-EXIF-Image-Data
 
 Remove EXIF data from the images uploaded to an S3 bucket and then stores the processed images to the destination S3 bucket. 
 
@@ -26,12 +26,12 @@ Step 2:
 Clone the project
 
 ```bash
-  git clone https://github.com/h4rd33p/DevOps-AWS_Remove-EXIF-Image-Data.git
+  git clone https://github.com/h4rd33p/IaC-AWS_Remove-EXIF-Image-Data.git
 ```
 Go to the project directory
 
 ```bash
-  cd DevOps-AWS_Remove-EXIF-Image-Data
+  cd IaC-AWS_Remove-EXIF-Image-Data
 ```
 Run terraform to deploy resources in the AWS
 
